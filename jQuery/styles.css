@@ -1,0 +1,9 @@
+.meep {
+    color: blue;
+    font-size: 10rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mop {
+    text-shadow: 10px 10px 10px black;
+}
